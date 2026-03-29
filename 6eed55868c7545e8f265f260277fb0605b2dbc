@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 8ad228ee3dcd152ae248c75175a4ad8b37730e1f Shakthi111 <shakthipriyan008@gmail.com> 1774484724 +0530	commit (initial): final app
+8ad228ee3dcd152ae248c75175a4ad8b37730e1f 1d5b57f7be9b175eb03dd692fcaa6bdbae10df0a Shakthi111 <shakthipriyan008@gmail.com> 1774485297 +0530	commit: edit
+1d5b57f7be9b175eb03dd692fcaa6bdbae10df0a 1d5b57f7be9b175eb03dd692fcaa6bdbae10df0a Shakthi111 <shakthipriyan008@gmail.com> 1774485464 +0530	checkout: moving from main to main
+1d5b57f7be9b175eb03dd692fcaa6bdbae10df0a 39f64dcb02fc2cc147182c83cc7380c34be21e0f Shakthi111 <shakthipriyan008@gmail.com> 1774487589 +0530	commit: Refactor user storage handling in localStorage to support both array and object formats. Ensure compatibility with older persisted data structures when updating user information.

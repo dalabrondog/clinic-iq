@@ -1,0 +1,1 @@
+Refactor user storage handling in localStorage to support both array and object formats. Ensure compatibility with older persisted data structures when updating user information.
